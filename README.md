@@ -73,5 +73,5 @@ If you have any question or contributions, please email me at [jessicamwangi933@
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
-* Copyright (c) 2022 **Jessica Mwangi**
+[MIT License](https://choosealicense.com/licenses/mit/)  
+Copyright (c) 2022 **Jessica Mwangi**
