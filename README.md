@@ -1,11 +1,11 @@
 # project-awwards
 
-### Jessica Mwangi  
+### By Jessica Mwangi  
   
 # Description  
 This project allows users to post their projects for other users to rate according to design, usability and content 
 ##  Live Link  
- Click [View Site]()  to visit the site
+ Click  to visit the site
   
 ## User Story  
   
