@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 import os
 from pathlib import Path
 from decouple import config
-
+import django_heroku
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -89,9 +89,11 @@ WSGI_APPLICATION = 'awwards.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'awards',
-        'USER': 'jessica',
-        'PASSWORD': 'Jesna7403',
+        'NAME': 'de5hfctctt455',
+        'USER': 'xjevswmlvvwdkh',
+        'PASSWORD': '3aa2c3df64051fefbc0d29d42f04d33efc68b8fe4693672f39e07b8fc8bd8d51',
+        'PORT': '5432',
+        'HOST': 'ec2-3-218-171-44.compute-1.amazonaws.com'
     }
 }
 
